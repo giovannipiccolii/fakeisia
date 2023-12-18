@@ -1,0 +1,32 @@
+/*foglio di stile*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+body {
+    background-color: lightsalmon;
+    font-family: 'Space Grotesk';
+    font-size: 16px;
+}
+
+h1,h2,h3,h4{
+    background-color: black;
+    color: lightseagreen;
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover{
+    color: azure;
+    text-decoration: overline;
+}
+
+a:visited{
+}
+
+
+
+
