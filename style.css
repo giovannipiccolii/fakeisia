@@ -16,6 +16,7 @@ h1,h2,h3,h4{
 a{
     /*short hand, abbreviazione di più righe di codice, meno righe=sito veloce*/
     border-bottom: 1px solid color(black);
+    text-decoration: none;
 }
 
 a:hover{
