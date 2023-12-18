@@ -4,9 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 
 body {
-    background-color: lightsalmon;
+    background-color: rgb(142, 88, 67);
     font-family: 'Roboto';
-    font-size: 16px;
+    font-size: 17px;
 }
 
 h1,h2,h3,h4{
