@@ -21,10 +21,6 @@ a{
     text-decoration: none;
 }
 
-div{
-    background-color: antiquewhite;
-}
-
 a:hover{
     color: black;
     text-decoration: underline;
@@ -32,6 +28,10 @@ a:hover{
 
 a:visited{
     color: black;
+}
+
+div{
+    background-color: antiquewhite;
 }
 
 
